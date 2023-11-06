@@ -90313,7 +90313,7 @@ J.eZ(j,"x:uid",J.cb(new A.bh(g,"user").bX(0,"uid",t.S)))
 try{b=new XMLHttpRequest()
 b.toString
 i=b
-J.aC7(i,"POST","http://up-cn-east-2.qiniup.com")
+J.aC7(i,"POST","https://up-cn-east-2.qiniup.com")
 J.aC8(i,j)
 A.da(i,"load",new A.alJ(n,i),!1)}catch(a0){h=A.ad(a0)
 A.bQ("\u670d\u52a1\u5668\u5f02\u5e38\uff0c\u8bf7\u7a0d\u540e\u518d\u8bd5")
@@ -90957,7 +90957,7 @@ $.c2().ak(B.v,"\u4e0a\u4f20\u89c6\u9891\u53c2\u6570\uff1a"+("Instance of '"+A.Oo
 try{g=new XMLHttpRequest()
 g.toString
 n=g
-J.aC7(n,"POST","http://up-cn-east-2.qiniup.com")
+J.aC7(n,"POST","https://up-cn-east-2.qiniup.com")
 J.aC8(n,o)
 A.da(n,"load",new A.ask(p,n),!1)}catch(f){m=A.ad(f)
 $.c2().ak(B.a2,"\u4e0a\u4f20\u89c6\u9891\u5f02\u5e38\uff1a"+A.k(m),null,null)
@@ -90983,7 +90983,7 @@ J.eZ(o,"x:file_type","COVER")
 try{k=new XMLHttpRequest()
 k.toString
 n=k
-J.aC7(n,"POST","http://up-cn-east-2.qiniup.com")
+J.aC7(n,"POST","https://up-cn-east-2.qiniup.com")
 J.aC8(n,o)
 A.da(n,"load",new A.asl(h,p,n),!1)}catch(g){m=A.ad(g)
 $.c2().ak(B.a2,"\u5c01\u9762\u4e0a\u4f20\u5f02\u5e38\uff1a"+A.k(m),null,null)
